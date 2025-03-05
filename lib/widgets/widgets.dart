@@ -1,0 +1,1 @@
+//GENERATED BARREL FILEexport 'back_button.dart';export 'custom_button.dart';export 'dots_indicator.dart';export 'page_wrapper.dart';export 'responsive_wrapper.dart';export 'tappable.dart';export 'textfield.dart';

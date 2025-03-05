@@ -1,0 +1,25 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="5.71484" width="40" height="28.5714" rx="4" fill="white"/>
+<mask id="mask0_101_2934" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="5" width="40" height="30">
+<rect y="5.71484" width="40" height="28.5714" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0_101_2934)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 17.1434H40V5.71484H0V17.1434Z" fill="#108753"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 34.284H40V22.8555H0V34.284Z" fill="#108753"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 22.8588H40V17.1445H0V22.8588Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.1426 34.2863H22.8569V5.71484H17.1426V34.2863Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.0479 34.2863H20.9526V5.71484H19.0479V34.2863Z" fill="#262626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 20.9516H40V19.0469H0V20.9516Z" fill="#262626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.1426 34.2863H19.0473V5.71484H17.1426V34.2863Z" fill="#FCD449"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 19.0493H40V17.1445H0V19.0493Z" fill="#FCD449"/>
+<ellipse cx="19.9997" cy="19.9987" rx="6.66667" ry="6.66667" fill="url(#paint0_linear_101_2934)"/>
+<ellipse cx="20.0002" cy="20.0002" rx="4.76191" ry="4.7619" stroke="#0E673F" stroke-width="2.66667" stroke-linecap="round" stroke-dasharray="1.33 5.33"/>
+<ellipse cx="19.9998" cy="19.9985" rx="0.954905" ry="1.90476" fill="#0E673F"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_101_2934" x1="13.333" y1="13.332" x2="13.333" y2="26.6654" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E02C42"/>
+<stop offset="1" stop-color="#D22036"/>
+</linearGradient>
+</defs>
+</svg>

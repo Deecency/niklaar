@@ -1,0 +1,46 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="5.71484" width="40" height="28.5714" rx="4" fill="white"/>
+<mask id="mask0_101_4456" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="5" width="40" height="30">
+<rect y="5.71484" width="40" height="28.5714" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0_101_4456)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 34.2863H40V5.71484H0V34.2863Z" fill="#30C375"/>
+<rect x="5.71387" y="5.71484" width="5.71429" height="28.5714" fill="#DE414F"/>
+<ellipse cx="8.57101" cy="9.52195" rx="2.85714" ry="1.90476" fill="white"/>
+</g>
+<mask id="mask1_101_4456" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="7" width="7" height="5">
+<ellipse cx="8.57101" cy="9.52195" rx="2.85714" ry="1.90476" fill="white"/>
+</mask>
+<g mask="url(#mask1_101_4456)">
+<ellipse cx="8.57152" cy="9.52269" rx="0.952381" ry="0.952381" fill="#DD404F"/>
+<rect x="5.71387" y="7.61719" width="2.85714" height="1.90476" fill="#FBAF29"/>
+<rect x="8.57129" y="9.52344" width="2.85714" height="1.90476" fill="#FBAF29"/>
+</g>
+<mask id="mask2_101_4456" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="28" width="7" height="5">
+<ellipse cx="8.57101" cy="30.4751" rx="2.85714" ry="1.90476" fill="white"/>
+</mask>
+<g mask="url(#mask2_101_4456)">
+<ellipse cx="8.57152" cy="30.4758" rx="0.952381" ry="0.952381" fill="#DD404F"/>
+<rect x="5.71387" y="28.5703" width="2.85714" height="1.90476" fill="#FBAF29"/>
+<rect x="8.57129" y="30.4766" width="2.85714" height="1.90476" fill="#FBAF29"/>
+</g>
+<mask id="mask3_101_4456" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="19" width="7" height="4">
+<ellipse cx="8.57101" cy="20.9516" rx="2.85714" ry="1.90476" fill="white"/>
+</mask>
+<g mask="url(#mask3_101_4456)">
+<ellipse cx="8.57175" cy="20.9524" rx="1.90476" ry="0.952381" fill="#DD404F"/>
+</g>
+<mask id="mask4_101_4456" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="24" width="7" height="3">
+<ellipse cx="8.57101" cy="25.7141" rx="2.85714" ry="0.952381" fill="white"/>
+</mask>
+<g mask="url(#mask4_101_4456)">
+</g>
+<mask id="mask5_101_4456" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="5" y="13" width="7" height="5">
+<ellipse cx="8.57101" cy="15.2368" rx="2.85714" ry="1.90476" fill="white"/>
+</mask>
+<g mask="url(#mask5_101_4456)">
+<ellipse cx="8.57152" cy="15.2375" rx="0.952381" ry="0.952382" fill="#DD404F"/>
+<rect x="5.71387" y="13.332" width="1.90476" height="3.80952" fill="#28AE67"/>
+<rect x="9.52344" y="13.332" width="1.90476" height="3.80952" fill="#28AE67"/>
+</g>
+</svg>
